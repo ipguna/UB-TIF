@@ -4,9 +4,9 @@
 
 ### Uploaded:
 
-- 513620  7 Jul 15:23 2017_Final_TIF103_DiscreteMath.pdf_
-- 597825  7 Jul 15:24 2017_Final_TIF104_Calculus2.pdf_
-- 22182435  7 Jul 15:25 2017_Final_TIF208_DSP.pdf_
+- 513620  7 Jul 15:23 2017\_Final\_TIF103\_DiscreteMath.pdf
+- 597825  7 Jul 15:24 2017\_Final\_TIF104\_Calculus2.pdf
+- 22182435  7 Jul 15:25 2017\_Final\_TIF208\_DSP.pdf
 
 ### GENERAL NOTES FOR ALL COURSES:
 
